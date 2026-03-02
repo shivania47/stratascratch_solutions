@@ -4,7 +4,7 @@
 
 ---
 ## HTML solution | Full Pipeline: 
-shivania47.github.io/stratascratch_solutions/stratascratch_starbucks_part1_official_solution.html
+The full solution is available here: shivania47.github.io/stratascratch_solutions/stratascratch_starbucks_part1_official_solution.html
 
 ## Background
 
