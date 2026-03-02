@@ -3,6 +3,7 @@
 > **StrataScratch Case Study** | A/B Test Analysis Pipeline built with [Marimo](https://marimo.io/)
 
 ---
+## HTML solution available on github pages: shivania47.github.io/stratascratch_solutions/stratascratch_starbucks_part1_official_solution.html
 
 ## Background
 
